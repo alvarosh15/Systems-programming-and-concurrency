@@ -1,0 +1,30 @@
+Number of users: 0
+Number of users: 3
+Nombre: lola, UID: 5, home directory: /home/lola
+Nombre: paco, UID: 4, home directory: /home/paco
+Nombre: pepe, UID: 1, home directory: /home/pepe
+Number of users: 3
+Nombre: pepe, UID: 1, home directory: /home/pepe
+Nombre: paco, UID: 4, home directory: /home/paco
+Nombre: lola, UID: 5, home directory: /home/lola
+El UID del usuario pepe es: 1
+El UID del usuario paco es: 4
+Number of users: 2
+Nombre: paco, UID: 4, home directory: /home/paco
+Nombre: pepe, UID: 1, home directory: /home/pepe
+Number of users: 2
+Nombre: pepe, UID: 1, home directory: /home/pepe
+Nombre: paco, UID: 4, home directory: /home/paco
+Number of users: 3
+Nombre: martin, UID: 5, home directory: /home/martin
+Nombre: paco, UID: 4, home directory: /home/paco
+Nombre: pepe, UID: 1, home directory: /home/pepe
+Number of users: 3
+Nombre: martin, UID: 5, home directory: /home/martin
+Nombre: paco, UID: 4, home directory: /home/paco
+Nombre: pepe, UID: 1, home directory: /home/pepe
+Number of users: 3
+Nombre: martin, UID: 5, home directory: /home/martin
+Nombre: paco, UID: 4, home directory: /home/paco
+Nombre: pepe, UID: 1, home directory: /home/pepe
+Fin del programa
